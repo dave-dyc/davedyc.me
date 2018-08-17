@@ -1,3 +1,7 @@
+---
+title: David Chen
+---
+
 ## Introduction
 
 Hello! My name is David Chen and I'm a software developer.
@@ -10,13 +14,13 @@ I'm actively looking for a job, so if you want to get in contact with me:
 - Email: [dave.dyc.dev@gmail.com](mailto:dave.dyc.dev@gmail.com)
 - Location: Winnipeg / Manitoba
 
-### Find me here
+## Find me here
 
 - [Github / dave-dyc](https://github.com/dave-dyc)
 - [Stackoverflow / David Chen](https://stackoverflow.com/users/2344142/david-chen)
 - [Youtube / David Chen](https://www.youtube.com/channel/UCAK3VCo78xmofxQWhqu2kHw)
 
-### My Projects
+## My Projects
 
 - **[bookwith.biz](https://www.bookwith.biz/)** - The easiest way to book appointments online.
 
