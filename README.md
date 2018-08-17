@@ -1,7 +1,3 @@
----
-title: David Chen
----
-
 ## Introduction
 
 Hello! My name is David Chen and I'm a software developer.
