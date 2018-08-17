@@ -26,7 +26,7 @@ I'm actively looking for a job, so if you want to get in contact with me:
 
     I also made a short ad for this website: [Youtube](https://www.youtube.com/watch?v=up2IJEJ2pqs).
 
-    ![bookwith.biz Landing page](https://i.imgur.com/34LeY1W.png)
+    [![bookwith.biz Landing page](https://i.imgur.com/34LeY1W.png)](https://www.bookwith.biz/)
 
 - **[Square Guy](https://play.google.com/store/apps/details?id=com.kemine.vironn)** - Infinite runner game for Android
 
@@ -36,7 +36,7 @@ I'm actively looking for a job, so if you want to get in contact with me:
 
     Here's a demo video of the game: [Youtube](https://www.youtube.com/watch?v=kd2Mz23laq8)
 
-    ![Square guy demo](https://i.imgur.com/lfVBfct.jpg)
+    [![Square guy demo](https://i.imgur.com/lfVBfct.jpg)](https://www.youtube.com/watch?v=kd2Mz23laq8)
 
 
 - **[Chidorisen](https://play.google.com/store/apps/details?id=com.kemine.chidorisen)** - Unique Puzzle game for Android
@@ -47,7 +47,7 @@ I'm actively looking for a job, so if you want to get in contact with me:
 
     Here's a demo video of the game: [Youtube](https://www.youtube.com/watch?v=eHnopa8gYpg)
 
-    ![Chidorisen demo](https://i.imgur.com/R34N4yV.png)
+    [![Chidorisen demo](https://i.imgur.com/R34N4yV.png)](https://www.youtube.com/watch?v=eHnopa8gYpg)
 
 - [UM Schedule](https://um-schedule.appspot.com/fall) - Scheduler for University of Manitoba Students
 
@@ -58,7 +58,7 @@ I'm actively looking for a job, so if you want to get in contact with me:
     Source code: [Github](https://github.com/dave-dyc/um-schedule)  
     Live Website: [Link](https://um-schedule.appspot.com/fall)
 
-    ![UM Schedule image](https://i.imgur.com/uk8X8Cw.png)
+    [![UM Schedule image](https://i.imgur.com/uk8X8Cw.png)](https://um-schedule.appspot.com/fall)
 
 - [Waifu Manager](https://github.com/dave-dyc/waifu_manager) - Discord bot that allows everyone to have a bot
 
@@ -68,5 +68,5 @@ I'm actively looking for a job, so if you want to get in contact with me:
 
     Source code: [Github](https://github.com/dave-dyc/waifu_manager)
 
-    ![Waifu Manager demo](https://i.imgur.com/7Ftop1O.png)
+    [![Waifu Manager demo](https://i.imgur.com/7Ftop1O.png)](https://github.com/dave-dyc/waifu_manager)
     
