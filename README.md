@@ -59,14 +59,3 @@ I'm actively looking for a job, so if you want to get in contact with me:
     Live Website: [Link](https://um-schedule.appspot.com/fall)
 
     [![UM Schedule image](https://i.imgur.com/uk8X8Cw.png)](https://um-schedule.appspot.com/fall)
-
-- [Waifu Manager](https://github.com/dave-dyc/waifu_manager) - Discord bot that allows everyone to have a bot
-
-    I made this using [discord.js](https://discord.js.org/#/).
-
-    Users would setup their bot, and then use it on public servers. Everyone in the server could have their own bot.
-
-    Source code: [Github](https://github.com/dave-dyc/waifu_manager)
-
-    [![Waifu Manager demo](https://i.imgur.com/7Ftop1O.png)](https://github.com/dave-dyc/waifu_manager)
-    
